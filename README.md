@@ -6,15 +6,13 @@
 
 ## Ementa
 
-Neste curso, você entenderá de uma vez por todas porque deve utilizar Git e Github em seus projetos. Começando por uma explicação extremamente didática sobre o fluxo básico de uso do Git, passando pelas principais ferramentas da plataforma Github e explorando o universo de possibilidades do encontro dessas duas tecnologias, você se sentirá confortável para lidar com as tarefas ligadas ao versionamento de projetos no dia-a-dia, além de adquirir experiência com exercícios baseados em projetos reais.
+Neste curso, você aprenderá a utilizar Git e Github em seus projetos de maneira fácil e eficiente. Começaremos com uma explicação clara e didática do fluxo básico do Git, seguiremos para as principais ferramentas do Github e exploraremos as diversas possibilidades dessas tecnologias. Ao final do curso, você estará confortável para lidar com tarefas de versionamento em seus projetos diariamente e terá adquirido experiência com exercícios baseados em projetos reais.
 
 <hr></hr>
 
 ## Objetivos
 
-As quatro primeiras seções do curso foram desenvolvidas para que você, em poucos minutos, aprenda a usufruir das vantagens do Github, manipulando o fluxo de versionamento do seu projeto. O objetivo principal dessas seções é te apresentar de forma sucinta, aquilo que você realmente precisa saber sobre essas tecnologias, para aplicar ao seu dia-a-dia.
-
-As seções subsequentes, trazem diversas estratégias para se trabalhar em equipe. Você conhecerá os principais fluxos de trabalho, resolvendo vários tipos de conflitos, com os principais comandos do Git. Isso tudo a partir de uma abordagem orientada a projetos, que torna o conhecimento muito mais prático e real.
+As primeiras quatro seções deste curso foram projetadas para que você possa aprender rapidamente a usufruir das vantagens do Github, manipulando o fluxo de versionamento do seu projeto. Elas fornecem uma introdução sucinta ao que é essencial para aplicar essas tecnologias no seu dia-a-dia. As seções subsequentes, por sua vez, apresentam estratégias para trabalhar em equipe, como os fluxos de trabalho mais comuns, resolução de conflitos e uso dos principais comandos do Git. Tudo isso é apresentado com uma abordagem orientada a projetos, tornando o conhecimento mais prático e aplicável.
 
 <hr></hr>
 
