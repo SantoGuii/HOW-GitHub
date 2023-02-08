@@ -1,3 +1,3 @@
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+O Git é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.
 
-Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
+Git é fácil de aprender e ocupa pouco espaço com desempenho extremamente rápido. Ele supera as ferramentas SCM como Subversion, CVS, Perforce e ClearCase com recursos como ramificação local barata, áreas de preparação convenientes e vários fluxos de trabalho.
