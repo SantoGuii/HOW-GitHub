@@ -19,7 +19,7 @@ As primeiras quatro seções deste curso foram projetadas para que você possa a
 ## Sumário
 
 __MÓDULO 1 - O que é GIT__
-- **1.1** O que é GIT?
+- [**1.1** O que é GIT?](https://github.com/SantoGuii/HOW-GitHub/blob/main/M%C3%93DULO%201/O%20que%20%C3%A9%20GIT%3F.md)
 - **1.2** Para que serve GIT?
 - **1.3** Instalando o GIT
 - **1.4** Configurando repositórios
